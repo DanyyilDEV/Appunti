@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1780700200 source:/home/vboxuser/prog2/simulazioniEsame/simulazioneTreeWriteHeigth/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<strings.h>
+

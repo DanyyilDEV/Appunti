@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1782517213 source:/home/vboxuser/prog2/simulazioniEsame/persone/Persone/main.cpp
+	<iostream>
+	<random>
+

@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1777732436 source:/home/vboxuser/prog2/esercitazione1/main.cpp
+	<iostream>
+	"Prodotto.h"
+	"ProdottoAlimentare.h"
+	"ProdottoBambini.h"
+	"Venditore.h"
+
+1777727327 /home/vboxuser/prog2/esercitazione1/Prodotto.h
+	<iostream>
+
+1777727317 /home/vboxuser/prog2/esercitazione1/ProdottoAlimentare.h
+	<iostream>
+	"Prodotto.h"
+
+1777727518 /home/vboxuser/prog2/esercitazione1/ProdottoBambini.h
+	<iostream>
+	"Prodotto.h"
+
+1777732791 /home/vboxuser/prog2/esercitazione1/Venditore.h
+	<iostream>
+	"Prodotto.h"
+
+1777727178 source:/home/vboxuser/prog2/esercitazione1/Prodotto.cpp
+	"Prodotto.h"
+
+1777727667 source:/home/vboxuser/prog2/esercitazione1/ProdottoAlimentare.cpp
+	"Prodotto.h"
+	"ProdottoAlimentare.h"
+	<sstream>
+	<ctime>
+
+1777727641 source:/home/vboxuser/prog2/esercitazione1/ProdottoBambini.cpp
+	"Prodotto.h"
+	"ProdottoBambini.h"
+
+1777732915 source:/home/vboxuser/prog2/esercitazione1/Venditore.cpp
+	"Prodotto.h"
+	"Venditore.h"
+	"ProdottoAlimentare.h"
+	"ProdottoBambini.h"
+

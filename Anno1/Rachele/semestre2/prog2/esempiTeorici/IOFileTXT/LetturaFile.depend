@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780221662 source:/home/vboxuser/prog2/EsempiPuliti/IOFileTXT/main.cpp
+	<fstream>
+	<iostream>
+	<string>
+

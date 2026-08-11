@@ -1,0 +1,20 @@
+classe astratta:
+ Errore
+	attributi: id;
+	metodo: print;
+classi derivate:{
+Warning
+	
+	print(){
+		"warning id??"
+	}
+Runtime:
+	attributi:
+	time;
+	metodi:
+	print{
+		Stop!(id: ??, time:??)
+	}
+}
+Creare una lista con insert e delete secondo il Fifo (nella simulazione
+la chiamava coda senza puntatore a tail), inserire 3 Errori cioè: un warning, runtime, waring, e poi fare delete
