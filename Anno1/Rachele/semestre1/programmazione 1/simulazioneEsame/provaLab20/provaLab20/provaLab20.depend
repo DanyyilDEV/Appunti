@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1771524161 source:/home/vboxuser/simulazioneEsame/provaLab20/provaLab20/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

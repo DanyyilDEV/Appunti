@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1771494931 source:/home/vboxuser/simulazioneEsame/provaLab19/provaLab19/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

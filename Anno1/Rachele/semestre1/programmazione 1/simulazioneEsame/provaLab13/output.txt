@@ -1,0 +1,5 @@
+v[0]=aicnara 
+v[1]=banana 
+v[2]=kiwi 
+v[3]=mela 
+v[4]=pera 
